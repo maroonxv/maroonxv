@@ -1,15 +1,23 @@
-# Hi👋, I'm xv.
+<div align="center">
+  <h1>Hi👋, I'm xv.</h1>
+</div>
 
 Undergraduate at [Central South University (CSU)](https://www.csu.edu.cn/).
 
-## About me
+<div align="center">
+  <h2>About me</h2>
+</div>
+
 ### Focus
 - 🎯 Quantitative trading and related engineering work.
 
 ### Interests
 - 📈 Quantitative research, strategy development, and trading system building.
 
-## What I’m working on
+<div align="center">
+  <h2>What I’m working on</h2>
+</div>
+
 ### Learning
 - 🧠 Machine learning algorithms (fundamentals + practice).
 - 🧩 Quantitative trading frameworks (research, backtesting, execution).
@@ -17,12 +25,17 @@ Undergraduate at [Central South University (CSU)](https://www.csu.edu.cn/).
 ### Collaboration
 - 🤝 Looking to collaborate on quantitative trading projects (strategy research, backtesting, data pipelines, tooling).
 
-## Contact
+<div align="center">
+  <h2>Contact</h2>
+</div>
+
 - ✉️ Email: [hbpbq@foxmail.com](mailto:hbpbq@foxmail.com)
 - 📬 Email: [lauhungzoey@gmail.com](mailto:lauhungzoey@gmail.com)
 
-## Quick links
-- 🔗 University: [CSU official site](https://www.csu.edu.cn/)
+<div align="center">
+  <h2>Quick links</h2>
+</div>
 
+- 🔗 University: [CSU official site](https://www.csu.edu.cn/)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maroonxv&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
