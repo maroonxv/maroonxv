@@ -1,13 +1,28 @@
-### Core stack (Simple Icons via jsDelivr)
-<img height="32" width="32" alt="Python" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/python.svg" />
-<img height="32" width="32" alt="Flask" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/flask.svg" />
-<img height="32" width="32" alt="MySQL" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/mysql.svg" />
-<img height="32" width="32" alt="MongoDB" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/mongodb.svg" />
+# Hi👋, I'm xv.
 
-### Alternative CDN (cdn.simpleicons.org, with auto viewBox)
-<img height="32" alt="Python" src="https://cdn.simpleicons.org/python?viewbox=auto" />
-<img height="32" alt="Flask" src="https://cdn.simpleicons.org/flask?viewbox=auto" />
-<img height="32" alt="MySQL" src="https://cdn.simpleicons.org/mysql?viewbox=auto" />
-<img height="32" alt="MongoDB" src="https://cdn.simpleicons.org/mongodb?viewbox=auto" />
+Undergraduate at [Central South University (CSU)](https://www.csu.edu.cn/).
+
+## About me
+### Focus
+- 🎯 Quantitative trading and related engineering work.
+
+### Interests
+- 📈 Quantitative research, strategy development, and trading system building.
+
+## What I’m working on
+### Learning
+- 🧠 Machine learning algorithms (fundamentals + practice).
+- 🧩 Quantitative trading frameworks (research, backtesting, execution).
+
+### Collaboration
+- 🤝 Looking to collaborate on quantitative trading projects (strategy research, backtesting, data pipelines, tooling).
+
+## Contact
+- ✉️ Email: [hbpbq@foxmail.com](mailto:hbpbq@foxmail.com)
+- 📬 Email: [lauhungzoey@gmail.com](mailto:lauhungzoey@gmail.com)
+
+## Quick links
+- 🔗 University: [CSU official site](https://www.csu.edu.cn/)
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maroonxv&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
