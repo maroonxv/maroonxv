@@ -15,7 +15,7 @@ Undergraduate at [Central South University (CSU)](https://www.csu.edu.cn/).
 - 🎯 Quantitative trading and related engineering work.
 
 ### Interests
-- 📈 Quantitative research, strategy development, and trading system building.
+- 📈 Quantitative trading system building.
 - 🌐 Web app development
 
 
@@ -29,6 +29,7 @@ Undergraduate at [Central South University (CSU)](https://www.csu.edu.cn/).
 - 🧠 Machine learning algorithms (fundamentals + practice).
 - 🧩 Quantitative trading frameworks (research, backtesting, execution).
 - 💻 Python / JavaScript Web app development stacks.
+- ⌨ Best Practices for vibe coding.
 
 
 
