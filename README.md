@@ -1,4 +1,4 @@
-hi, I'm Adrian. CS undergrad at [CSU](https://www.csu.edu.cn/), class of '27, based in Shenzhen. Check out [my site](http://www.adrianxv.cn/) or grab [my resume](http://www.adrianxv.cn/resume.pdf).
+hi, I'm Adrian. CS undergrad at [CSU](https://www.csu.edu.cn/), class of '27, based in Shenzhen. Check out [my site](https://www.adrianxv.cn/) or grab [my resume](https://www.adrianxv.cn/resume.pdf).
 
 I build systems that touch real money. I learned to program alongside LLMs, so building with agents is native to me. I am learning to go lower: Modern C++, Operating Systems, Networking, Concurrency, CompArch...
 ## now
@@ -28,4 +28,4 @@ I build systems that touch real money. I learned to program alongside LLMs, so b
 
 Two internships so far. One doing sell-side research on AI compute and storage. One at a private fund, working on trading systems & options strategies. Code I wrote has sent real orders to a real exchange, still the coolest thing my code has done.
 
-The details live in my [resume](http://www.adrianxv.cn/resume.pdf).
+The details live in my [resume](https://www.adrianxv.cn/resume.pdf).
