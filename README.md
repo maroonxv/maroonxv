@@ -1,4 +1,4 @@
-hi, I'm Adrian. CS undergrad at [CSU](https://www.csu.edu.cn/), class of '27, based in Shenzhen. Check out [my site](https://www.adrianxv.cn/) or grab [my resume](https://www.adrianxv.cn/resume.pdf).
+hi, I'm Adrian. [CSU](https://www.csu.edu.cn/)'27, based in Shenzhen, China. Check out [my site](https://www.adrianxv.cn/) or grab [my resume](https://www.adrianxv.cn/resume.pdf).
 
 I build systems that touch real money. I learned to program alongside LLMs, so building with agents is native to me. I am learning to go lower: Modern C++, Operating Systems, Networking, Concurrency, CompArch...
 ## now
