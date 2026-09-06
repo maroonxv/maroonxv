@@ -29,3 +29,4 @@ I build systems that touch real money. I learned to program alongside LLMs, so b
 Two internships so far. One doing sell-side research on AI compute and storage. One at a private fund, working on trading systems & options strategies. Code I wrote has sent real orders to a real exchange, still the coolest thing my code has done.
 
 The details live in my [resume](https://www.adrianxv.cn/resume.pdf).
+Contact: adrian@adrianxv.cn
